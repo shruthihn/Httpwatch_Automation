@@ -20,6 +20,7 @@ defaultUnnamedArg=pythoncom.Empty
 
 CLSID = IID('{494EFA4F-9C46-40A0-A50D-C1D5C8937042}')
 MajorVersion = 1
+
 MinorVersion = 0
 LibraryFlags = 8
 LCID = 0x0
